@@ -1,6 +1,6 @@
 # miPrimerRepo
 Mi primer repositorio
-print("Eres puto si lo lees")
+print("Eres puto si lo lees") matate plox
 
 for i in range(101):
   print("Claro cielo pero no mates a nadie porfavor)
